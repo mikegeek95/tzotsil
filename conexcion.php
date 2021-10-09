@@ -17,9 +17,9 @@ class MySQL
 	 {  
 	 	$this->se=new Sesion();
 	 	$this->servidor="localhost";
-	 	$this->usuario="root";
-	 	$this->contrase="";
-	 	$this->db="palabras";
+	 	$this->usuario="b9c848a162573f";
+	 	$this->contrase="7443ab9e";
+	 	$this->db="heroku_4aebd56f5aef2e8";
 
 	
 	 	if(!isset($this->conexion))
